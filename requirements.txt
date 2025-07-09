@@ -1,0 +1,5 @@
+openai
+moviepy
+selenium
+TikTokApi
+pyttsx3
